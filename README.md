@@ -10,7 +10,9 @@ wget -q https://raw.githubusercontent.com/KANGGACOR9/VVIP/main/update.sh && chmo
 ```
 
 ### INSTALLASI UDP-CUSTOM MANUAL
+```
 wget https://raw.githubusercontent.com/YINNSTORE/vip/main/udp-custom.sh && chmod +x udp-custom.sh && ./udp-custom.sh
+```
 
 ### WORK DI OS
 - UBUNTU 20.04.05

@@ -1,4 +1,4 @@
-#!/bin/bash
+o#!/bin/bash
 Green="\e[92;1m"
 RED="\033[31m"
 YELLOW="\033[33m"
@@ -25,7 +25,7 @@ clear;clear;clear
 
   # // Banner
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e " WELCOME TO TOMKET TUNNELING SCRIPT ${YELLOW}(${NC}${green}Stable Edition${NC}${YELLOW})${NC}"
+echo -e " WELCOME TO KANGGACOR VIP TUNNELING SCRIPT ${YELLOW}(${NC}${green}Stable Edition${NC}${YELLOW})${NC}"
 echo -e " PROSES PENGECEKAN IP ADDRESS ANDA !!"
 echo -e "${purple}----------------------------------------------------------${NC}"
 echo -e " ›AUTHOR : ${green} KANGGACOR TUNELING <® ${NC}${YELLOW}(${NC}${green}V 3.2${NC}${YELLOW})${NC}"
@@ -1009,11 +1009,11 @@ echo ""
 echo ""
 echo "------------------------------------------------------------"
 echo ""
-echo "===============-[ SCRIPT BY YINN TUNNEL ]-==============="
+echo "===============-[ SCRIPT BY KANGGACOR VIP ]-==============="
 echo -e ""
 echo ""
 echo "" | tee -a log-install.txt
-echo "TOLOL"
+echo "GACORRKANG"
 sleep 1
 echo -ne "[ ${yell}COMPLETED${NC} ] PENGINSTALAN SCRIPT SELESAI KETIK Y UNTUK REBOOT ! (y/n)? "
 read answer
